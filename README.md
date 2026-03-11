@@ -1,5 +1,5 @@
-# Transaction-Processing-Fraud-Analysis
-This project explores how fraud manifests in the daily bank transaction logs of LOL Bank Pvt. Ltd. The goal was to take raw data, structure it into a formal database format, and uncover hidden stories, such as why certain accounts are targeted or identifying the prime time for fraudulent activity. 
+# Financial-Fraud-Forensic-Analytics
+LOL Bank Pvt. Ltd. faced a surge in suspicious activity across its digital ecosystem. Raw transaction logs were siloed, making it impossible to identify whether fraud was driven by specific device types, merchant categories, or vulnerable customer demographics. This project explores how the fraud manifests in the daily bank transaction logs. The goal was to take raw data, structure it into a formal database format, and uncover hidden stories, such as why certain accounts are targeted or identifying the prime time for fraudulent activity. 
 
 ### **The Big Takeaways**
 
